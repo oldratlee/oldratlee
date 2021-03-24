@@ -2,25 +2,6 @@
 
 欢迎加入 淘宝架构与基础服务团队，长期招后端`Java`、`C`/`C++`、`Go`、数据分析等。
 
-自荐/内推可加我（请注明 **招聘**）
-
-- 微信： `oldratlee`；钉钉： `oldratlee`
-- 邮件我： `oldratlee@gmail.com`
-
---------------------
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [🏛 关于我们 @ 淘宝架构与基础服务团队](#%F0%9F%8F%9B-%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC--%E6%B7%98%E5%AE%9D%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%E5%9B%A2%E9%98%9F)
-- [✨ 团队产品的介绍](#-%E5%9B%A2%E9%98%9F%E4%BA%A7%E5%93%81%E7%9A%84%E4%BB%8B%E7%BB%8D)
-- [👨‍🚒 关于我](#%E2%80%8D-%E5%85%B3%E4%BA%8E%E6%88%91)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
---------------------
-
 ## 🏛 关于我们 @ 淘宝架构与基础服务团队
 
 - 团队成员大牛云集，这里有
@@ -70,12 +51,6 @@
         - 在短视频场景，卡顿率降低 20%
     - [阿里`XQUIC`：标准`QUIC`实现自研之路](https://mp.weixin.qq.com/s/pBv_DnG05YWl4ZYRHThaTw) - LiveVideoStack 2020-8-12
     - [阿里淘系自研标准化协议库`XQUIC`首次公开：直播高峰期卡顿可降低 30%](https://mp.weixin.qq.com/s/-nOEzOwGcckptjkxozw1mw) - InfoQ 2020-8-15
-1. **淘宝`Reactive`架构升级**
-    - [全面异步化：淘宝反应式架构升级探索](https://mp.weixin.qq.com/s/MLqBhgUCkEX1ARPmZPHChQ) - 淘系技术公众号 2019-01-15
-    - [与十俱进 2018双11狂欢看淘宝技术创新力 — 技术架构全面革新](https://mp.weixin.qq.com/s/Ks-p67BoddNQB74yMz7YpQ) - 淘系技术公众号 2018-11-12
-    - QCon2018北京 分享：Reactive架构升级实践 —— 淘宝全站业务的全异步流式架构升级 2018-4-21
-        - [PPT的`PDF`文件](https://github.com/oldratlee/reactive-practice-at-taobao/blob/master/Reactive%E6%9E%B6%E6%9E%84%E5%8D%87%E7%BA%A7%E5%AE%9E%E8%B7%B5-%E6%9D%8E%E9%BC%8E-20180421-QCon%E5%8C%97%E4%BA%AC.pdf)，[大会议题的介绍页](https://2018.qconbeijing.com/presentation/462)
-    - 更多说明详见 [这里](https://github.com/oldratlee/reactive-practice-at-taobao)
 1. **新一代的业务研发模式`Gaia`平台**（一站式函数研发`FaaS`平台）
     - [阿里业务研发平台的新利器——GAIA横空出世](https://mp.weixin.qq.com/s/mD0URwb3tV1MZ14GYJ1zrQ) - 淘系技术公众号 2019-07-02
     - [“一次编码、到处运行”，淘宝云端一体化探索](https://mp.weixin.qq.com/s/NSWhgJ132qbaCudIsJt7xw) - 淘系技术公众号 2019-08-22
@@ -83,7 +58,3 @@
     - [Swift 在 GAIA 平台云端一体化的探索](https://mp.weixin.qq.com/s/7B2FDBZ_vnvswiYWjLih4Q) - 淘系技术公众号 2019-11-15
 
 **期待你一起参与加入 淘宝架构与基础服务的建设～** ♥️
-
-## 👨‍🚒 关于我
-
-见 [Github Profile `@oldratlee`](https://github.com/oldratlee)。
