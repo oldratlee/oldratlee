@@ -5,7 +5,7 @@
 自荐/内推可加我（请注明 **招聘**）
 
 - 微信： `oldratlee`；钉钉： `oldratlee`
-- 邮件我： `oldratlee@gmail.com`
+- 邮件我： `oldratlee+hire@gmail.com`
 
 --------------------
 
