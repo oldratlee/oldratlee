@@ -67,6 +67,8 @@
         - 分享过去一年多的思考、实现 与 2019双11实践落地及其收益效果。
         - 高可用(HA) 不单是 **应对资源失效的高可用**，还有 **面向流量的高可用**。在今天对于应用架构来说，后者更是痛点，但业界的关注、思路、实践要落后很多。让我们一起更多地关注、正面思考与解决这只房间里的大象：流量不确定性带来的稳定性问题！
 1. **下一代网络协议`QUIC`实现与落地**
+    - [The Road to `multipath QUIC`: 阿里自研多路径传输技术`XLINK`](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=502945646&idx=1&sn=009a04fa4d36caf8493c58c7e9dc7ef1&chksm=03969f7634e11660fc6e7feb63cbdb3cd8054e4bf58506489a73790ecf7b3db8b0e91089d741#rd) - 淘系公众号 2021-05-11
+        - 阿里巴巴淘系技术部淘系架构团队与达摩院XG实验室共同研发的`XLINK`多路传输技术，相关论文「XLINK: QoE-driven multi-path QUIC transport in large-scale video services」已经被顶级学术会议`SIGCOMM 2021`正式接收， 这也是`SIGCOMM`会议历史上第一篇关于多路径`QUIC`的论文。
     - [面向`5G`的阿里自研标准化协议库`XQUIC`](https://mp.weixin.qq.com/s/CbdlTq1xb2N1WSnmGfmEQQ) - 淘系公众号 2020-8-11
       - `XQUIC`是阿里巴巴淘系架构团队自研的`IETF QUIC`标准化协议库实现，在手机淘宝上进行了广泛的应用，并在多个不同类型的业务场景下取得明显的效果提升，为手机淘宝APP的用户带来丝般顺滑的网络体验：
         - 在`RPC`请求场景，网络耗时降低 15%
