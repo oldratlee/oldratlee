@@ -6,6 +6,7 @@
 - 注重 系统设计、工程实践 与 代码味道；开源活跃者
 - 开源项目
     - `Java`基础库 [`alibaba/transmittable-thread-local`](https://github.com/alibaba/transmittable-thread-local)
+    - `Java`工具库 [`alibaba/java-dns-cache-manipulator`](https://github.com/alibaba/java-dns-cache-manipulator)
     - 脚本集 [`oldratlee/useful-scripts`](https://github.com/oldratlee/useful-scripts)
     - 翻译集 [`oldratlee/translations`](https://github.com/oldratlee/translations)
     - `RPC`中间件 [`apache/dubbo`](https://github.com/apache/dubbo) 核心开发者之一
