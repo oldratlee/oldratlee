@@ -5,11 +5,12 @@
     - 2009年加入阿里巴巴：阿里云移动云/`PaaS`、服务端[`RPC`](https://github.com/apache/dubbo)/消息等中间件、B2B国际站架构组
 - 注重 系统设计、工程实践 与 代码味道；开源活跃者
 - 开源项目
-    - `Java`基础库 [`alibaba/transmittable-thread-local`](https://github.com/alibaba/transmittable-thread-local)
-    - `Java`工具库 [`alibaba/java-dns-cache-manipulator`](https://github.com/alibaba/java-dns-cache-manipulator)
-    - 脚本集 [`oldratlee/useful-scripts`](https://github.com/oldratlee/useful-scripts)
-    - 翻译集 [`oldratlee/translations`](https://github.com/oldratlee/translations)
-    - `RPC`中间件 [`apache/dubbo`](https://github.com/apache/dubbo) 核心开发者之一
+    - `Java`基础库 [📌 `alibaba/transmittable-thread-local`](https://github.com/alibaba/transmittable-thread-local)
+    - `Java`工具库 [🌎 `alibaba/java-dns-cache-manipulator`](https://github.com/alibaba/java-dns-cache-manipulator)
+    - 脚本集 [🐌 `oldratlee/useful-scripts`](https://github.com/oldratlee/useful-scripts)
+    - 实践文集 [🐣 `oldratlee/software-practice-thoughts`](https://github.com/oldratlee/software-practice-thoughts)
+    - 翻译集 [🐼 `oldratlee/translations`](https://github.com/oldratlee/translations)
+    - `RPC`中间件 [🧲 `apache/dubbo`](https://github.com/apache/dubbo) 核心开发者之一
 
 ## 🔥 We're hiring‼️
 
