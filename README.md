@@ -1,4 +1,4 @@
-## 👨‍🚒 李鼎 | Jerry Lee
+## 👤 李鼎 | Jerry Lee
 
 - 经历：移动中间件/架构 | 数据驱动/用户增长设施 | 业务系统 | 后端中间件/架构
     - 淘宝：[淘宝基础架构](https://github.com/oldratlee/oldratlee/blob/master/tb-arch-fundation.md#-%E6%B7%98%E5%AE%9D%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%E5%9B%A2%E9%98%9F)（基础架构 与 移动基础中间件产品）、[淘宝`Reactive`架构升级](https://github.com/oldratlee/reactive-practice-at-taobao)、淘宝`AB`数据驱动设施与用户增长平台、天猫直播/淘宝特价业务
@@ -10,8 +10,10 @@
     - 脚本集 [🐌 `oldratlee/useful-scripts` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/useful-scripts.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/useful-scripts)
     - 实践文集 [🐣 `oldratlee/software-practice-thoughts` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/software-practice-thoughts.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/software-practice-thoughts)
         - 淘宝`Reactive`实践记录 [`oldratlee/reactive-practice-at-taobao` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/reactive-practice-at-taobao.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/reactive-practice-at-taobao)
-        - `Vim`实践日志 [`oldratlee/vim-practice` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/vim-practice.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/vim-practice)
         - 并发问题`showcase` [`oldratlee/fucking-java-concurrency` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/fucking-java-concurrency.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/fucking-java-concurrency)
+        - 通用`API`设计与实现示例 [`oldratlee/io-api` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/io-api.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/io-api)
+        - `Java ClassLoader`容器的设计与实现 [`oldratlee/land` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/land.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/land)
+        - `Vim`实践日志 [`oldratlee/vim-practice` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/vim-practice.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/vim-practice)
     - 翻译集 [🐼 `oldratlee/translations` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/translations.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/translations)
     - `RPC`中间件 [🧲 `apache/dubbo` ![GitHub stars](https://img.shields.io/github/stars/apache/dubbo.svg?style=flat-square&color=3b8686)](https://github.com/apache/dubbo) 核心开发者之一
 
