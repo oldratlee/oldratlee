@@ -18,6 +18,14 @@
     - 翻译集 [🐼 `oldratlee/translations` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/translations.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/translations)
     - `RPC`中间件 [🧲 `apache/dubbo` ![GitHub stars](https://img.shields.io/github/stars/apache/dubbo.svg?style=flat-square&color=3b8686)](https://github.com/apache/dubbo) 核心开发者之一
 
-## 🔥 We're hiring‼️
+## 🔥 We're hiring❗️
 
 ♥️ 欢迎自荐/内推，加**我微信: _`oldratlee`_**（请注明**招聘**）♥️
+
+## 💫 拼多多校园招聘2025
+
+内推链接 ：https://careers.pinduoduo.com/campus/grad?t=EhSXFjaOpA ，内推码： EhSXFjaOpA 。
+
+期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选～ 💕）
+
+<a href="#dummy"><img src="https://github.com/user-attachments/assets/2f05283d-0398-4ffc-8e50-eeba9d8c2e5e" width="40%" alt="拼多多校园招聘2025" /></a>
