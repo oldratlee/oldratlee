@@ -7,7 +7,8 @@
 - 开源项目
     - `Java`基础库 [📌 `alibaba/transmittable-thread-local` ![GitHub stars](https://img.shields.io/github/stars/alibaba/transmittable-thread-local.svg?style=flat-square&color=3b8686)](https://github.com/alibaba/transmittable-thread-local)
     - `Java`工具库 [🌎 `alibaba/java-dns-cache-manipulator` ![GitHub stars](https://img.shields.io/github/stars/alibaba/java-dns-cache-manipulator.svg?style=flat-square&color=3b8686)](https://github.com/alibaba/java-dns-cache-manipulator)
-    - `Java`并发库 [🦝 `foldright/cffu(CompletableFuture Fu)` ![GitHub stars](https://img.shields.io/github/stars/foldright/cffu.svg?style=flat-square&color=3b8686)](https://github.com/foldright/cffu)
+    - `Java`并发库 [🦝 `foldright/cffu(CompletableFuture-Fu)` ![GitHub stars](https://img.shields.io/github/stars/foldright/cffu.svg?style=flat-square&color=3b8686)](https://github.com/foldright/cffu)
+    - `Java`规范库 [🪐 `foldright/inspectable-wrappers` ![GitHub stars](https://img.shields.io/github/stars/foldright/inspectable-wrappers.svg?style=flat-square&color=3b8686)](https://github.com/foldright/inspectable-wrappers)
     - 脚本集 [🐌 `oldratlee/useful-scripts` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/useful-scripts.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/useful-scripts)
     - 实践文集 [🐣 `oldratlee/software-practice-thoughts` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/software-practice-thoughts.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/software-practice-thoughts)
         - 淘宝`Reactive`实践记录 [`oldratlee/reactive-practice-at-taobao` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/reactive-practice-at-taobao.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/reactive-practice-at-taobao)
