@@ -23,10 +23,15 @@
 
 ♥️ 欢迎自荐/内推，加**我微信: _`oldratlee`_**（请注明**招聘**）♥️
 
-## 💫 拼多多校园招聘2025
+校招/研发实习生内推也可以：
 
-内推链接 ：https://careers.pinduoduo.com/campus/grad?t=EhSXFjaOpA ，内推码： EhSXFjaOpA 。
+- 💫 2025届春招内推
+    - 内推链接： https://careers.pddglobalhr.com/campus/grad?t=EhSXFjaOpA ，内推码： EhSXFjaOpA 。  
+- 💫 2026届研发实习生招聘
+    - 内推链接： https://careers.pddglobalhr.com/campus/intern?t=vCfez5KrAn ，内推码： vCfez5KrAn 。  
+- 期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选~ 💕）
 
-期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选～ 💕）
-
-<a href="#dummy"><img src="https://github.com/user-attachments/assets/2f05283d-0398-4ffc-8e50-eeba9d8c2e5e" width="40%" alt="拼多多校园招聘2025" /></a>
+<p>
+<img src="https://github.com/user-attachments/assets/49a34824-bb67-4cbe-b230-c4b8c4462606" width="44%" align="left" alt="2025届春招内推" /></a>
+<img src="https://github.com/user-attachments/assets/f4de8ae3-564d-4798-9be0-5d2744cdf28d" width="44%" align="right" alt="2026届研发实习生招聘" /></a>
+</p>
